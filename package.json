@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "name": "repa_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "newFile.js",
+  "scripts": {
+    "start": "node run.js param1 param2 param3"
+  },
+  "author": "",
+  "license": "ISC"
+}
